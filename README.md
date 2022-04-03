@@ -21,6 +21,28 @@ This section will require that you create association rules that will allow you 
 
 You have also been requested to check whether there are any anomalies in the given sales dataset. The objective of this task being fraud detection.
 
+## Technologies used
+
+R programming language
+
+tidyverse
+
+ggcorrplot
+
+factoextra
+
+cluster
+
+purr
+
+moments package
+
+## Metrics of success
+
+After successfully reducing your dataset to a low dimensional dataset  using pca ,perform feature selection through the use of the unsupervised learning methods ,create association rules that will allow you to identify relationships between variables in the dataset and check whether there are any anomalies in the given sales dataset with the aim of checking for fraud detection.
+
+
+
 ## Dataset
 
 The dataset files for part 1, 2, 3 and 4 can be found below:

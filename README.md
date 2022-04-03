@@ -25,17 +25,41 @@ You have also been requested to check whether there are any anomalies in the giv
 
 R programming language
 
-tidyverse
+relaimpo
 
-ggcorrplot
+data.table
+
+ggplot2
+
+ggthemes
+
+plotly
+
+dplyr
+
+wskm
 
 factoextra
 
+ggcorrplot
+
+moments
+
+caret
+
+corrplot
+
+devtools
+
+psych
+
 cluster
 
-purr
+anomalies
 
-moments package
+tidyverse (packages)
+
+
 
 ## Metrics of success
 
